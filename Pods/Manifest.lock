@@ -1,0 +1,21 @@
+PODS:
+  - ReactiveCocoa (2.3.1):
+    - ReactiveCocoa/UI (= 2.3.1)
+  - ReactiveCocoa/Core (2.3.1):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.3.1)
+  - ReactiveCocoa/UI (2.3.1):
+    - ReactiveCocoa/Core
+  - RTIconButton (1.1.5)
+
+DEPENDENCIES:
+  - ReactiveCocoa (~> 2.3.1)
+  - RTIconButton
+
+SPEC CHECKSUMS:
+  ReactiveCocoa: 3fe9b233ca6db810e86681b5749488564c1179a1
+  RTIconButton: fbc165d54b2b2ae353ce7dda76420bb87915a3de
+
+PODFILE CHECKSUM: 03cc8bbf854ba57c07acef7b6a0e74276b41ada2
+
+COCOAPODS: 1.2.1
